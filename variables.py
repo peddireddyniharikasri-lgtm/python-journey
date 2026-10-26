@@ -1,0 +1,20 @@
+a=5
+b=int("3")
+c=True
+d=5
+e=None
+f=str(30)
+g=5**2
+h=5%2
+a+=b
+#print(type(a))
+#print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(a+b)
+print(type(f))
+print(g)
+print(h)
+print(a)
+print(0 ,False and True)

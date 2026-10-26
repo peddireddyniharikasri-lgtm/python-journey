@@ -1,0 +1,16 @@
+a=0b1010
+print(a)
+print(hex(a))
+print(oct(a))
+b=15
+print(hex(b))
+print(oct(b))
+print(bin(b))
+c=0o234
+print(hex(c))
+print(c)
+print(bin(c))
+d=0x876
+print(bin(d))
+print(oct(d))
+print(d)
